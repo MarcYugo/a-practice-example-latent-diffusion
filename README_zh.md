@@ -1,5 +1,5 @@
 ## 一个 Latent Diffusion 的练习实例
-
+[英文](https://github.com/MarcYugo/a-practice-example-latent-diffusion/blob/main/README.md)
 ### 依赖
 ```bash
 transformers==4.26.1
