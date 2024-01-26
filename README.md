@@ -1,5 +1,5 @@
 ## A Practice Example of Latent Diffusion
-
+[Chinese](https://github.com/MarcYugo/a-practice-example-latent-diffusion/blob/main/README_zh.md)
 ### Requirements
 ```bash
 transformers==4.26.1
